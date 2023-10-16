@@ -1,0 +1,14 @@
+{
+  "name": "commitlint-config",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "miraitowa <1835110799@qq.com>",
+  "license": "ISC",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "scripts": {
+    "test": "node ./__tests__/commitlint-config.test.js"
+  }
+}
